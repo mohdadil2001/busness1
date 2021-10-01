@@ -18,7 +18,7 @@ sr.reveal('.animate-left', {
     distance:'30rem',
     delay:150 
 
-}) ;
+});
 
 sr.reveal('.animate-right', {
     origin: 'right',
@@ -26,6 +26,6 @@ sr.reveal('.animate-right', {
     distance:'30rem',
     delay:150 
 
-}) ;
+});
 
 
